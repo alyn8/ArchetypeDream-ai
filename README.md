@@ -1,5 +1,5 @@
 # 🌙 Archetype AI: Jungian Dream Analyst
-
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://archetypedream-ai-cxk72vyj92qgqrlbzytdzm.streamlit.app/)
 Bu proje, Carl Jung'un analitik psikoloji ekolünü modern yapay zeka teknolojileriyle birleştiren uçtan uca bir web uygulamasıdır. Kullanıcıların rüyalarını sembolik ve arketipler üzerinden analiz ederken, aynı zamanda bu rüyaları görselleştirir.
 
 ## 🚀 Özellikler
